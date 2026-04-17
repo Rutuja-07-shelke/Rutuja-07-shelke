@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rutuja 👋
 
-<!--
-**Rutuja-07-shelke/Rutuja-07-shelke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Data Science Graduate  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python | SQL | Power BI | Excel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Projects
+- Plant Growth Analysis Dashboard  
+- AI Interview Coach  
+- Smart Database Assistant  
+
+## 📫 Contact
+- Email: rutujashelke85@gmail.com
+- LinkedIn: (add your link)
